@@ -1,8 +1,10 @@
+Uma alteração no início.
+
 Uma linha antes...
 
 Primeira linha alterada.
 
-Uma linha depois...
+Branch master...
 
 Terceira alteração no arquivo.
 
