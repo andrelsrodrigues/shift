@@ -1,7 +1,7 @@
 Uma linha antes...
 
-Nova alteração no arquivo.
-
 Primeira linha alterada.
 
 Uma linha depois...
+
+Terceira alteração no arquivo.
