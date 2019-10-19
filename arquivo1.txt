@@ -5,3 +5,6 @@ Primeira linha alterada.
 Uma linha depois...
 
 Terceira alteração no arquivo.
+
+Quarta alteração: git stash.
+
