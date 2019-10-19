@@ -8,3 +8,4 @@ Terceira alteração no arquivo.
 
 Quarta alteração: git stash.
 
+Esta linha originou-se da branch dev.
