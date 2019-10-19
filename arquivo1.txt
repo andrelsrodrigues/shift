@@ -4,10 +4,10 @@ Uma linha antes...
 
 Primeira linha alterada.
 
-Branch master...
-
 Terceira alteração no arquivo.
 
 Quarta alteração: git stash.
 
 Esta linha originou-se da branch dev.
+
+Última linha do arquivo.
